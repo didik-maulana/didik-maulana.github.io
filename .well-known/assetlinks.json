@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.didik.moflix",
+    "sha256_cert_fingerprints":
+    ["B1:1E:1D:02:88:10:07:36:CC:A1:19:32:74:EA:B6:E3:12:28:6E:B8:71:D8:3A:1A:2F:D4:2B:69:1E:D9:77:C5"]
+  }
+}]
